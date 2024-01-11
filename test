@@ -14,3 +14,6 @@ print(x % y)
 print(15 == 2)    
 
 #lam-ng add this line
+
+for i in range(10):
+    print(in)
